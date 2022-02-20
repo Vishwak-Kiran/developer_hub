@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Vishwak-Kiran/developer_hub/static/css/main.5872344e.css",
+    "main.js": "/Vishwak-Kiran/developer_hub/static/js/main.96fd4a35.js",
+    "index.html": "/Vishwak-Kiran/developer_hub/index.html",
+    "main.5872344e.css.map": "/Vishwak-Kiran/developer_hub/static/css/main.5872344e.css.map",
+    "main.96fd4a35.js.map": "/Vishwak-Kiran/developer_hub/static/js/main.96fd4a35.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5872344e.css",
+    "static/js/main.96fd4a35.js"
+  ]
+}
